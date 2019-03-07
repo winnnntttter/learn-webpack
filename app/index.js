@@ -1,3 +1,4 @@
+require('./main.scss');
 var sub = require('./sub');
 var app  = document.createElement('div');
 app.innerHTML = '<h1>Hello World</h1>';
